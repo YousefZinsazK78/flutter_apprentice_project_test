@@ -9,8 +9,8 @@ and so on...
 ## ScreenShots
 
 ---
-![ScreenShot]('card1.png')
+![ScreenShot](card1.png)
 
-![ScreenShot2]('card2.png')
+![ScreenShot2](card2.png)
 
-![ScreenShot3]('card3.png')
+![ScreenShot3](card3.png)
