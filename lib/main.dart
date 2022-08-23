@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Text(
-            "Let's get cooking",
+            "Let's get cooking 👩‍🍳👨‍🍳",
             style: themeData.textTheme.headline1,
           ),
         ),
