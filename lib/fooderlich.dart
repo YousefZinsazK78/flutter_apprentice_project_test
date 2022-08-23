@@ -7,7 +7,7 @@ class FooderlichScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('fooderlich appbar'),
+        title: const Text('fooderlich'),
       ),
     );
   }
