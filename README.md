@@ -1,16 +1,16 @@
-# flutter_application_test
+# flutter_application_test : ->
 
-A new Flutter project.
+## in this project i'll work with material widget and custom widget 
+___widgets like : stack , container , center , column , row___
 
-## Getting Started
+___using theme class for providing theme for materialapp widget ...___
 
-This project is a starting point for a Flutter application.
+and so on...
+## ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
+---
+![ScreenShot]('card1.png')
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![ScreenShot2]('card2.png')
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ScreenShot3]('card3.png')
