@@ -9,8 +9,8 @@ and so on...
 ## ScreenShots
 
 ---
-![ScreenShot](card1.png)
+[<img src="card1.png" width="250"/>](card1.png)
 
-![ScreenShot2](card2.png)
+[<img src="card2.png" width="250"/>](card2.png)
 
-![ScreenShot3](card3.png)
+[<img src="card3.png" width="250"/>](card3.png)
